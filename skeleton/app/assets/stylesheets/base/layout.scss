@@ -14,21 +14,21 @@ body {
 
 button {
 	background-color: $light-blue;
-	// border-color:
+	border-color: $dark-blue;
 	color: white;
-	font-weight: 500;
-	// padding:
-	// border-radius:
+	font-weight: 700;
+	padding: 7px 9px;
+	border-radius: 3px;
 	transition: background-color 0.3s;
 	font-family: $sans-serif;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	font-size: 14px;
-	// text-align:
+	text-align: center;
 }
 
 button:hover {
-	// background-color:
-	// border-color:
+	background-color: $blue;
+	border-color: $darkest-blue;
 }
 
 /*
