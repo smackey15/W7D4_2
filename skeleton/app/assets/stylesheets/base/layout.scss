@@ -13,16 +13,16 @@ body {
 }
 
 button {
-	background-color: $lightest-blue;
+	background-color: $light-blue;
 	// border-color:
-	// color:
-	// font-weight:
+	color: white;
+	font-weight: 500;
 	// padding:
 	// border-radius:
-	// transition:
-	// font-family:
-	// text-transform:
-	// font-size:
+	transition: background-color 0.3s;
+	font-family: $sans-serif;
+	text-transform: capitalize;
+	font-size: 14px;
 	// text-align:
 }
 
